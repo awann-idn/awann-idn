@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=640&lines=Hai,+gue+Awan;CS+student+@+Universitas+Sriwijaya;Frontend-first,+backend+kalau+terpaksa;Lagi+bangun+SIGAP+buat+Sumatera+Selatan" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=640&lines=Hai,+gue+Awan;CS+student+@+Universitas+Sriwijaya;Fullstack+Developer;Lagi+bangun+SIGAP+buat+Sumatera+Selatan" alt="Typing animation" />
 
 <br/>
 
@@ -12,9 +12,7 @@
 
 ### 👋 Tentang Gue
 
-- 🎓 Mahasiswa Ilmu Komputer, Universitas Sriwijaya
-- 💻 Fokus di frontend, sesekali turun ke backend kalau memang dibutuhkan
-- 🔭 Lagi ngerjain **SIGAP**
+Gue Awan, mahasiswa Ilmu Komputer di Universitas Sriwijaya. Gue fullstack developer, jadi frontend sama backend sama-sama gue garap. Sekarang lagi fokus ngerjain **SIGAP**.
 
 ---
 
@@ -87,7 +85,7 @@
 
 ### 📚 Lainnya
 
-- 🎓 [**Frontend GDGoC 25/26**](https://github.com/awann-idn/Frontend-Development-GDGoC-25-26-Division-Learning) : materi live coding sesi belajar divisi frontend GDGoC
+🎓 [**Frontend GDGoC 25/26**](https://github.com/awann-idn/Frontend-Development-GDGoC-25-26-Division-Learning): materi live coding sesi belajar divisi frontend GDGoC
 
 ---
 
