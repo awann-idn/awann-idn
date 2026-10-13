@@ -1,47 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=640&lines=Hai,+gue+Awan;CS+student+@+Universitas+Sriwijaya;Fullstack+Developer;Lagi+bangun+SIGAP+buat+Sumatera+Selatan" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=640&lines=Nuredy+Rahma+Gunawan;Fullstack+Developer;Mahasiswa+Sistem+Informasi;Building+for+the+web" alt="Typing animation" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=awann-idn&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
+<br/><br/>
+
+<!-- Ganti example.com dengan link website kalau sudah jadi -->
+<a href="https://example.com">
+  <img src="https://img.shields.io/badge/Website-DC2626?style=for-the-badge" alt="Website" />
+</a>
+<a href="https://www.instagram.com/nuredyram_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<!-- TODO: tambahkan LinkedIn setelah profilnya dirapikan -->
+
 </div>
 
 ---
 
-### 👋 Tentang Gue
+### 👋 Tentang
 
-Gue Awan, mahasiswa Ilmu Komputer di Universitas Sriwijaya. Gue fullstack developer, jadi frontend sama backend sama-sama gue garap. Sekarang lagi fokus ngerjain **SIGAP**.
-
----
-
-### 🔥 SIGAP
-
-> Sistem pelaporan titik api karhutla berbasis web untuk Sumatera Selatan, dibangun bareng tim **Infinitera**.
-
-**Masalahnya:** laporan titik api selama ini susah diverifikasi. Orang bisa kirim foto lama, koordinat ngasal, atau spam.
-
-**Solusinya:**
-
-| | Fitur | Deskripsi |
-|:-:|---|---|
-| 📍 | **Validasi GPS vs EXIF** | Lokasi GPS dicocokkan dengan metadata foto |
-| ⏱️ | **Rate limiting per perangkat** | Membatasi spam laporan dari satu perangkat |
-| ✅ | **Dashboard verifikasi BPBD** | Titik api hanya tayang di peta publik setelah diverifikasi petugas |
-
-<p align="center">
-  <a href="https://sigap-infinitera.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-sigap--infinitera.vercel.app-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
-  </a>
-  <a href="https://github.com/awann-idn/sigap">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
-  </a>
-</p>
+Nuredy Rahma Gunawan, biasa dipanggil Awan. Saat ini sedang berkuliah di Universitas Sriwijaya jurusan Sistem Informasi sekaligus di Universitas Terbuka jurusan Hukum. Berfokus pada pengembangan web sebagai Fullstack Developer dengan tech stack berikut:
 
 ---
 
 ### 🧰 Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -50,17 +38,35 @@ Gue Awan, mahasiswa Ilmu Komputer di Universitas Sriwijaya. Gue fullstack develo
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 
+<br/><br/>
+
 **Backend & Data**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Upstash_Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Upstash Redis" />
 
+<br/><br/>
+
 **Tools & Deploy**
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 💼 Portofolio
+
+**SIGAP** adalah sistem pelaporan titik api karhutla berbasis web untuk Sumatera Selatan yang dikembangkan bersama tim Infinitera. Setiap laporan diverifikasi melalui pencocokan lokasi GPS dengan metadata foto, lalu ditinjau oleh petugas BPBD sebelum tampil di peta publik.
+
+<p align="center">
+  <a href="https://sigap-infinitera.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-sigap--infinitera.vercel.app-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
+</p>
 
 ---
 
@@ -85,12 +91,12 @@ Gue Awan, mahasiswa Ilmu Komputer di Universitas Sriwijaya. Gue fullstack develo
 
 ### 📚 Lainnya
 
-🎓 [**Frontend GDGoC 25/26**](https://github.com/awann-idn/Frontend-Development-GDGoC-25-26-Division-Learning): materi live coding sesi belajar divisi frontend GDGoC
+🎓 **[Frontend GDGoC 25/26](https://github.com/awann-idn/Frontend-Development-GDGoC-25-26-Division-Learning)**: kumpulan materi live coding dari sesi pembelajaran divisi Frontend GDGoC.
 
 ---
 
 <div align="center">
 
-Dibuat dengan ☕ dan banyak `console.log` · Makasih udah mampir 👋
+Terima kasih sudah berkunjung 👋
 
 </div>
